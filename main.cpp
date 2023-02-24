@@ -83,6 +83,7 @@ int ExponentialSearch(
 int main()
 {
     cout << "Exponential Search" << endl;
+    cout << "Payment GateWay" << endl;
 
     // Initialize a new array
     int arr[] = {8, 15, 23, 28, 32, 39, 42, 44, 47, 48};
