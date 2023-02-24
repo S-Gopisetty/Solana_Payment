@@ -1,0 +1,5 @@
+# ninja log v5
+2	67	1677210762886758021	000TestProject	ea36914cee5ccbe6
+1	644	1677210720983292003	CMakeFiles/000TestProject.dir/Users/surya/Desktop/DS/CPP-Data-Structures-and-Algorithms/Chapter04/Merge_Sort/Merge_Sort.cpp.o	fc3779532344c0a4
+2	748	1677207895837852155	CMakeFiles/000TestProject.dir/main.cpp.o	2076af7807e5d88
+0	122	1677211029368413441	build.ninja	4e356603cb59bbe0
